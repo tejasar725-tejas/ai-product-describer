@@ -1,0 +1,4 @@
+Generated using:
+python -m app.cli describe --name "Canvas Tote" --features "cotton canvas, reinforced handles, roomy interior" --tone friendly --length short
+
+s Little couses mals. Its widtitching opentitching ernose and dureveryday cons inutinforcarryourable sFther bouldable Cotton Shopper and dable design, lightweight cotton,

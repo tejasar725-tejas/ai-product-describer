@@ -1,0 +1,55 @@
+{
+  "architecture": "GPT decoder-only transformer",
+  "training_examples": 20,
+  "tokens": 2572,
+  "vocab_size": 356,
+  "epochs": 400,
+  "seed": 42,
+  "loss_history": [
+    {
+      "step": 1,
+      "loss": 5.89045
+    },
+    {
+      "step": 40,
+      "loss": 2.95673
+    },
+    {
+      "step": 80,
+      "loss": 2.20062
+    },
+    {
+      "step": 120,
+      "loss": 1.70453
+    },
+    {
+      "step": 160,
+      "loss": 1.30982
+    },
+    {
+      "step": 200,
+      "loss": 0.82935
+    },
+    {
+      "step": 240,
+      "loss": 0.59664
+    },
+    {
+      "step": 280,
+      "loss": 0.42915
+    },
+    {
+      "step": 320,
+      "loss": 0.41382
+    },
+    {
+      "step": 360,
+      "loss": 0.34718
+    },
+    {
+      "step": 400,
+      "loss": 0.32492
+    }
+  ],
+  "limitations": "Small demonstration corpus; outputs are experimental and should be reviewed before commercial use."
+}
