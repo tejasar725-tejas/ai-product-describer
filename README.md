@@ -1,3 +1,4 @@
+[![Built with askThili](https://ask.thili.ai/api/v1/public/projects/4szuaddktw/badge.svg)](https://ask.thili.ai/b/4szuaddktw)
 # AI Product Describer
 
 A local command-line tool that trains a small decoder-only GPT from random initialization on product-description examples, then samples new descriptions from product details. It uses PyTorch; it does **not** call a hosted language-model API.
